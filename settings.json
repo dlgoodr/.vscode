@@ -1,0 +1,19 @@
+{
+  "editor.fontSize": 11,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Monaco, 'IBM Plex Mono', Consolas, 'Courier New', monospace",
+  "workbench.colorTheme": "Solarized Dark",
+  "git.enableSmartCommit": true,
+  "editor.minimap.enabled": false,
+  "extensions.ignoreRecommendations": true,
+  "gitlens.advanced.messages": {
+      "suppressCommitHasNoPreviousCommitWarning": false,
+      "suppressCommitNotFoundWarning": false,
+      "suppressFileNotUnderSourceControlWarning": false,
+      "suppressGitVersionWarning": false,
+      "suppressLineUncommittedWarning": false,
+      "suppressNoRepositoryWarning": false,
+      "suppressUpdateNotice": false,
+      "suppressWelcomeNotice": true
+  },
+}
