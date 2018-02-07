@@ -19,6 +19,7 @@
   "git.autofetch": true,
   "window.zoomLevel": 0,
   "files.associations": {
+    // files in folders named iam-*
     "**/iam-*/**": "json"
   },
   "files.autoGuessEncoding": true
