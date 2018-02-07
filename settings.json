@@ -7,13 +7,19 @@
   "editor.minimap.enabled": false,
   "extensions.ignoreRecommendations": true,
   "gitlens.advanced.messages": {
-      "suppressCommitHasNoPreviousCommitWarning": false,
-      "suppressCommitNotFoundWarning": false,
-      "suppressFileNotUnderSourceControlWarning": false,
-      "suppressGitVersionWarning": false,
-      "suppressLineUncommittedWarning": false,
-      "suppressNoRepositoryWarning": false,
-      "suppressUpdateNotice": false,
-      "suppressWelcomeNotice": true
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressUpdateNotice": false,
+    "suppressWelcomeNotice": true
   },
+  "git.autofetch": true,
+  "window.zoomLevel": 0,
+  "files.associations": {
+    "": "json"
+  },
+  "files.autoGuessEncoding": true
 }
