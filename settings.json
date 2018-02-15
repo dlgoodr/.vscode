@@ -20,7 +20,8 @@
   "window.zoomLevel": 0,
   "files.associations": {
     // files in folders named iam-*
-    "**/iam-*/**": "json"
+    "**/iam-*/**": "json",
+    "oidc-identity-providers": "json"
   },
   "files.autoGuessEncoding": true
 }
