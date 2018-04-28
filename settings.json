@@ -1,33 +1,33 @@
 {
-    "editor.fontSize": 11,
-    "editor.tabSize": 2,
-    "editor.fontFamily": "Monaco, 'IBM Plex Mono', Consolas, 'Courier New', monospace",
-    "workbench.colorTheme": "Solarized Dark",
-    "git.enableSmartCommit": true,
-    "editor.minimap.enabled": false,
-    "extensions.ignoreRecommendations": true,
-    "gitlens.advanced.messages": {
-      "suppressCommitHasNoPreviousCommitWarning": false,
-      "suppressCommitNotFoundWarning": false,
-      "suppressFileNotUnderSourceControlWarning": false,
-      "suppressGitVersionWarning": false,
-      "suppressLineUncommittedWarning": false,
-      "suppressNoRepositoryWarning": false,
-      "suppressResultsExplorerNotice": false,
-      "suppressShowKeyBindingsNotice": true,
-      "suppressUpdateNotice": false,
-      "suppressWelcomeNotice": true
-    },
-    "git.autofetch": true,
-    "window.zoomLevel": 0,
-    "files.associations": {
-      // files in folders named iam-*
-      "**/iam-*/**": "json",
-      "oidc-identity-providers": "json"
-    },
-    "files.autoGuessEncoding": true,
-    "gitlens.keymap": "chorded",
-    "editor.renderWhitespace": "none",
-    "editor.renderControlCharacters": true
-  }
-  
+  "telemetry.enableTelemetry": false,
+  "editor.fontSize": 11,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Monaco, 'IBM Plex Mono', Consolas, 'Courier New', monospace",
+  "workbench.colorTheme": "Solarized Dark",
+  "git.enableSmartCommit": true,
+  "editor.minimap.enabled": false,
+  "extensions.ignoreRecommendations": true,
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true,
+    "suppressUpdateNotice": false,
+    "suppressWelcomeNotice": true
+  },
+  "git.autofetch": true,
+  "window.zoomLevel": 0,
+  "files.associations": {
+    // files in folders named iam-*
+    "**/iam-*/**": "json",
+    "oidc-identity-providers": "json"
+  },
+  "files.autoGuessEncoding": true,
+  "gitlens.keymap": "chorded",
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": true
+}
