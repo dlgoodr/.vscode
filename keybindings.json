@@ -10,6 +10,11 @@
     "when": "editorLangId == jsonc"
   },
   {
+    "key": "ctrl+l",
+    "command": "xmlTools.formatAsXml",
+    "when": "editorLangId == xml"
+  },
+  {
     "key": "ctr+alt+m",
     "command": "-extension.prettyJSON"
   },
@@ -21,5 +26,37 @@
   {
     "key": "ctrl+alt+s",
     "command": "editor.action.sortLinesAscending"
+  },
+  {
+    "key": "ctrl+tab",
+    "command": "workbench.action.nextEditor"
+  },
+  {
+    "key": "ctrl+pagedown",
+    "command": "-workbench.action.nextEditor"
+  },
+  {
+    "key": "ctrl+pagedown",
+    "command": "workbench.action.openNextRecentlyUsedEditorInGroup"
+  },
+  {
+    "key": "ctrl+tab",
+    "command": "-workbench.action.openNextRecentlyUsedEditorInGroup"
+  },
+  {
+    "key": "ctrl+shift+tab",
+    "command": "workbench.action.previousEditor"
+  },
+  {
+    "key": "ctrl+pageup",
+    "command": "-workbench.action.previousEditor"
+  },
+  {
+    "key": "ctrl+pageup",
+    "command": "workbench.action.openPreviousRecentlyUsedEditorInGroup"
+  },
+  {
+    "key": "ctrl+shift+tab",
+    "command": "-workbench.action.openPreviousRecentlyUsedEditorInGroup"
   }
 ]
