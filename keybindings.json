@@ -1,12 +1,12 @@
 [
   {
     "key": "ctrl+l",
-    "command": "extension.prettyJSON",
+    "command": "extension.beautifyJson",
     "when": "editorLangId == json"
   },
   {
     "key": "ctrl+l",
-    "command": "extension.prettyJSON",
+    "command": "extension.beautifyJson",
     "when": "editorLangId == jsonc"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "key": "ctr+alt+m",
-    "command": "-extension.prettyJSON"
+    "command": "-extension.beautifyJson"
   },
   {
     "key": "ctrl+l",
@@ -58,5 +58,9 @@
   {
     "key": "ctrl+shift+tab",
     "command": "-workbench.action.openPreviousRecentlyUsedEditorInGroup"
+  },
+  {
+    "key": "shift+enter",
+    "command": "workbench.action.terminal.runSelectedText"
   }
 ]
