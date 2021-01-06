@@ -1,2 +1,4 @@
 launch.json
 workspaceStorage/
+globalStorage/
+sync/
